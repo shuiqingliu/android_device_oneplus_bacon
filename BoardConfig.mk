@@ -57,3 +57,5 @@ AUDIO_FEATURE_LOW_LATENCY_PRIMARY := true
 
 # inherit from the proprietary version
 -include vendor/oneplus/bacon/BoardConfigVendor.mk
+
+ANDROID_COMMON_BUILD_MK = true
